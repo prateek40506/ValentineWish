@@ -39,6 +39,7 @@ body {
 
 .one {
   font-size: 4.5rem;
+  color: white;
 }
 
 .one > img {
@@ -51,10 +52,12 @@ body {
 .two {
   font-size: 1.2rem;
   font-weight: lighter;
+  color: white;
 }
 
 .three {
   font-size: 3rem;
+  color: white;
 }
 
 .four .text-box {
@@ -90,6 +93,7 @@ body {
   position: absolute;
   left: 0;
   right: 0;
+  color: white;
 }
 
 .idea-3 strong {
@@ -100,12 +104,14 @@ body {
 
 .five .idea-5 {
   font-size: 4rem;
+  color: white;
 }
 
 .idea-5 span,
 .idea-6 span,
 .wish-hbd span {
   display: inline-block;
+  color: white;
 }
 
 .idea-6 span {
@@ -114,6 +120,7 @@ body {
 
 .six {
   position: relative;
+  color: white;
 }
 
 .six img {
